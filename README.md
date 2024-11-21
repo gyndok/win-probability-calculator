@@ -1,6 +1,6 @@
 # Win Probability Calculator
 
-A web-based calculator that determines the probability of a team winning based on the current score and time remaining in the game.
+A web-based calculator that determines the probability of an NBA team winning based on the current score and time remaining in the game.
 
 ## Features
 
